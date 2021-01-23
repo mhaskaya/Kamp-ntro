@@ -14,6 +14,7 @@ namespace ClassMetotDemo
         public void Sil(Musteri musteri)
         {
             Console.WriteLine(musteri.Adi +  musteri.Soyadi + " : Müsteri Silindi!");
+
         }
 
         public void MusteriListele(Musteri[] musteriler)
